@@ -1,0 +1,1 @@
+I try to deaxiomize Newtons first and second Law

@@ -1,0 +1,10 @@
+## latex/bibtex/pdflatex auxiliary files:
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.tex
+*.synctex.gz
+
